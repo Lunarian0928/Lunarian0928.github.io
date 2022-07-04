@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.163cb20a.chunk.css",
+    "main.js": "/static/js/main.df398615.chunk.js",
+    "main.js.map": "/static/js/main.df398615.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aff97f00.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aff97f00.js.map",
+    "static/js/2.014815e4.chunk.js": "/static/js/2.014815e4.chunk.js",
+    "static/js/2.014815e4.chunk.js.map": "/static/js/2.014815e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.40c82fca86908bd3eda4c5819953d7f2.js": "/precache-manifest.40c82fca86908bd3eda4c5819953d7f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.163cb20a.chunk.css.map": "/static/css/main.163cb20a.chunk.css.map",
+    "static/js/2.014815e4.chunk.js.LICENSE.txt": "/static/js/2.014815e4.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/static/media/movit_cover.f2fbdcb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff97f00.js",
+    "static/js/2.014815e4.chunk.js",
+    "static/css/main.163cb20a.chunk.css",
+    "static/js/main.df398615.chunk.js"
+  ]
+}
